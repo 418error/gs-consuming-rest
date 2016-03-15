@@ -168,5 +168,5 @@
 
   When running the above the console should output...
   ```
-  2016-03-15 17:27:39.992  INFO 25167 --- [           main] hello.Application                        : Quote{type='success', value=Value{id=6, quote='It embraces convention over configuration, providing an experience on par with frameworks that excel at early stage development, such as Ruby on Rails.'}}
+  2016-03-15 17:27:39.992  INFO 25167 --- [main] hello.Application : Quote{type='success', value=Value{id=6, quote='It embraces convention over configuration, providing an experience on par with frameworks that excel at early stage development, such as Ruby on Rails.'}}
   ```
